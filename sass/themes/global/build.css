@@ -1,0 +1,93 @@
+/*
+Syntax error: File to import not found or unreadable: variables.
+              Load paths:
+                /home/alexander/Projects/de-core.github.com/test-version/source/stylesheets
+                /home/alexander/.rvm/gems/ruby-2.1.3/gems/compass-0.12.2/frameworks/blueprint/stylesheets
+                /home/alexander/.rvm/gems/ruby-2.1.3/gems/compass-0.12.2/frameworks/compass/stylesheets
+                Compass::SpriteImporter
+        on line 2 of /home/alexander/Projects/de-core.github.com/test-version/source/sass/themes/global/build.scss
+
+1: // Bootswatch _variables.scss
+2: @import "variables";
+3: 
+4: // Bootstrap without _variables.scss
+5: @import "../../src/sass/bootstrap";
+6: 
+7: // Bootswatch Theme
+
+Backtrace:
+/home/alexander/Projects/de-core.github.com/test-version/source/sass/themes/global/build.scss:2
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/import_node.rb:67:in `rescue in import'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/import_node.rb:45:in `import'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/import_node.rb:28:in `imported_file'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/import_node.rb:37:in `css_import?'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:217:in `visit_import'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:37:in `visit'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:100:in `visit'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:53:in `block in visit_children'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:53:in `map'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:53:in `visit_children'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:109:in `block in visit_children'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:121:in `with_environment'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:108:in `visit_children'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:37:in `block in visit'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:128:in `visit_root'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:37:in `visit'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:100:in `visit'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:7:in `visit'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/tree/root_node.rb:20:in `render'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/engine.rb:315:in `_render'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/sass-3.2.12/lib/sass/engine.rb:262:in `render'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/renderers/sass.rb:66:in `evaluate'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/tilt-1.3.7/lib/tilt/template.rb:77:in `render'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/core_extensions/rendering.rb:273:in `render_individual_file'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/core_extensions/rendering.rb:150:in `render_template'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/sitemap/resource.rb:150:in `block in render'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/activesupport-3.2.15/lib/active_support/notifications.rb:125:in `instrument'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/util.rb:60:in `instrument'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/application.rb:196:in `instrument'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/sitemap/resource.rb:16:in `instrument'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/sitemap/resource.rb:121:in `render'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/core_extensions/request.rb:252:in `process_request'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/core_extensions/request.rb:202:in `block in call!'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/core_extensions/request.rb:201:in `catch'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/core_extensions/request.rb:201:in `call!'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/core_extensions/request.rb:187:in `call'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/rack-1.5.2/lib/rack/builder.rb:138:in `call'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/rack-1.5.2/lib/rack/urlmap.rb:65:in `block in call'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/rack-1.5.2/lib/rack/urlmap.rb:50:in `each'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/rack-1.5.2/lib/rack/urlmap.rb:50:in `call'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/rack-1.5.2/lib/rack/lint.rb:49:in `_call'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/rack-1.5.2/lib/rack/lint.rb:37:in `call'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/rack-1.5.2/lib/rack/builder.rb:138:in `call'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/rack-test-0.6.2/lib/rack/mock_session.rb:30:in `request'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/rack-test-0.6.2/lib/rack/test.rb:230:in `process_request'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/rack-test-0.6.2/lib/rack/test.rb:57:in `get'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/cli/build.rb:138:in `render_to_file'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/cli/build.rb:280:in `block in execute!'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/cli/build.rb:277:in `each'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/cli/build.rb:277:in `execute!'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/cli/build.rb:199:in `invoke!'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/thor-0.19.1/lib/thor/actions.rb:94:in `action'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/cli/build.rb:64:in `build'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/cli.rb:77:in `method_missing'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/thor-0.19.1/lib/thor/command.rb:29:in `run'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/thor-0.19.1/lib/thor/command.rb:126:in `run'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/lib/middleman-core/cli.rb:22:in `start'
+/home/alexander/.rvm/gems/ruby-2.1.3/gems/middleman-core-3.1.6/bin/middleman:18:in `<top (required)>'
+/home/alexander/.rvm/gems/ruby-2.1.3/bin/middleman:23:in `load'
+/home/alexander/.rvm/gems/ruby-2.1.3/bin/middleman:23:in `<main>'
+/home/alexander/.rvm/gems/ruby-2.1.3/bin/ruby_executable_hooks:15:in `eval'
+/home/alexander/.rvm/gems/ruby-2.1.3/bin/ruby_executable_hooks:15:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Syntax error: File to import not found or unreadable: variables.\A               Load paths:\A                 /home/alexander/Projects/de-core.github.com/test-version/source/stylesheets\A                 /home/alexander/.rvm/gems/ruby-2.1.3/gems/compass-0.12.2/frameworks/blueprint/stylesheets\A                 /home/alexander/.rvm/gems/ruby-2.1.3/gems/compass-0.12.2/frameworks/compass/stylesheets\A                 Compass::SpriteImporter\A         on line 2 of /home/alexander/Projects/de-core.github.com/test-version/source/sass/themes/global/build.scss\A \A 1: // Bootswatch _variables.scss\A 2: @import \"variables\";\A 3: \A 4: // Bootstrap without _variables.scss\A 5: @import \"../../src/sass/bootstrap\";\A 6: \A 7: // Bootswatch Theme"; }

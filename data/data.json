@@ -1,0 +1,829 @@
+[
+  {
+    "title": "Metall Gears",
+    "url": ["http://metall-gears.de-core.net"],
+    "tags": "landing, bootstrap 3, sass, middleman",
+    "pages": "1",
+    "responsive": true,
+    "time": {
+      "start": "20.01.2014",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/metall-gears.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Room Media",
+    "url": ["http://roommedia.ru"],
+    "tags": "landing, bootstrap 3, angular",
+    "pages": "1",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/roommedia.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": true,
+    "optimist_backend": false
+  },
+  {
+    "title": "Adex International",
+    "url": ["http://adex-landing.de-core.net/"],
+    "tags": "landing, bootstrap 3, sass, middleman",
+    "pages": "1",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/adex-landing.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Kupix",
+    "url": ["http://kupix-landing.herokuapp.com/"],
+    "tags": "landing, bootstrap 3, markup, sass, php",
+    "pages": "3",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/kupix-landing.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Fablab",
+    "url": ["http://fablab77.ru/"],
+    "tags": "bootstrap 3, public, markup, sass, erb, middleman",
+    "pages": "3",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/fablab.png"],
+    "decore_design": true,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": true,
+    "optimist_backend": false
+  },
+  {
+    "title": "U-pack",
+    "url": ["http://u-pack.pro"],
+    "tags": "bootstrap 3, responsive, sass, jinja2",
+    "pages": "8",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/u-pack.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "I-button",
+    "url": ["https://i-button.herokuapp.com/"],
+    "tags": "landing, Zurb Foundation, markup, sass, php",
+    "pages": "7",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/i-button.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Dan Max",
+    "url": ["http://dan-max.de-core.net/"],
+    "tags": "landing, bootstrap 3, sass, middleman",
+    "pages": "1",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/dan-max.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Ferrata Team",
+    "url": ["http://ferrata-team.de-core.net/"],
+    "tags": "admin, bootstrap 3, sass, middleman",
+    "pages": "3",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/ferrata-team.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Plants-nursery",
+    "url": ["http://plants-nursery.de-core.net/"],
+    "tags": "landing, bootstrap 3, sass, middleman, markup",
+    "pages": "1",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/plants-nursery.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Green Capital",
+    "url": ["http://plants-shop.de-core.net/"],
+    "tags": "bootstrap 3, sass, middleman, markup",
+    "pages": "15",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/plants-shop.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Explorus",
+    "url": ["http://explorus.de-core.net/"],
+    "tags": "bootstrap 3, sass, middleman, markup",
+    "pages": "9",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/explorus.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Test Market",
+    "url": ["http://test-market.de-core.net/"],
+    "tags": "bootstrap 3, sass, middleman, markup",
+    "pages": "14",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/test-market.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "RED",
+    "url": ["http://red-dev.herokuapp.com/"],
+    "tags": "landing, bootstrap 3, sass, erb, markup",
+    "pages": "1",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/red-dev.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Adex",
+    "url": ["http://adex.de-core.net"],
+    "tags": "landing, admin, bootstrap 3, sass, middleman,  markup",
+    "pages": "13",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/adex.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Master Stream",
+    "url": ["http://masterstream.de-core.net"],
+    "tags": "bootstrap 3, markup, sass, erb, middleman",
+    "pages": "2",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/master-stream.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Admin for kupix",
+    "url": [""],
+    "tags": "bootstrap 3, admin, markup, sass, php",
+    "pages": "9",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/tovaroved.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Kupix-partner",
+    "url": ["http://kupix-partner.herokuapp.com/html/public/index.php"],
+    "tags": "landing, bootstrap 3, markup, sass, php",
+    "pages": "1",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/kupix-partner.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "GWC",
+    "url": ["http://gwc.de-core.net/"],
+    "tags": "bootstrap 3, public, markup, admin, sass, erb, middleman",
+    "pages": "13",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/gwc.png"],
+    "decore_design": true,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Promenade",
+    "url": ["http://promenade41.herokuapp.com/"],
+    "tags": "bootstrap 3, public, markup, sass, erb, middleman",
+    "pages": "8",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/promenade.png"],
+    "decore_design": true,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Profit Print",
+    "url": ["http://profitprint.herokuapp.com/index.html"],
+    "tags": "bootstrap 3, public, markup, sass, erb, middleman",
+    "pages": "4",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/profiprint.png"],
+    "decore_design": true,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "blankzakaza.ru",
+    "url": ["http://blankzakaza.ru/"],
+    "tags": "langing, bootstrap 1, markup, sass, erb, middleman",
+    "pages": "1",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/blank-zakaza.png"],
+    "decore_design": true,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Super nuts",
+    "url": ["http://supernuts.herokuapp.com/"],
+    "tags": "langing, bootstrap 3, markup, sass, erb, middleman",
+    "pages": "5",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/supernuts.png"],
+    "decore_design": true,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "RuSMS",
+    "url": ["http://v2.rusms.de/"],
+    "tags": "bootstrap 1, public, cabinet, markup, sass, erb, middleman",
+    "pages": "5",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/rusms.png"],
+    "decore_design": true,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "polimerka-ekt.ru ",
+    "url": ["http://ppo.herokuapp.com/"],
+    "tags": "bootstrap 2, public, cabinet, markup, sass, erb, middleman",
+    "pages": "5",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/ppo.png"],
+    "decore_design": true,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "vorota-ekt.ru",
+    "url": ["http://vdv.herokuapp.com/index.html"],
+    "tags": "bootstrap 2, public, markup, sass, erb, middleman",
+    "pages": "5",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/vorota.png"],
+    "decore_design": true,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Metall Gears",
+    "url": ["http://metallgears.herokuapp.com/"],
+    "tags": "bootstrap 3, public, markup, sass, erb, middleman",
+    "pages": "6",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/metallgears.png"],
+    "decore_design": true,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Med Avangard",
+    "url": ["http://medavangard.ru/"],
+    "tags": "960.gs, public, markup, sass",
+    "pages": "6",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/medavangard.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Business Craft",
+    "url": ["http://business-craft.herokuapp.com/list"],
+    "tags": "bootstrap 2, public, markup, sass, jinja2, flask",
+    "pages": "11",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/business-craft.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "White-house",
+    "url": ["http://white-house.herokuapp.com/list"],
+    "tags": "bootstrap 2, public, markup, sass, jinja2, flask",
+    "pages": "12",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/white-house.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "holod-ekb.ru",
+    "url": ["http://holod-ekb.ru/"],
+    "tags": "zurb foundation 3, public, markup, sass, erb, middleman",
+    "pages": "12",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/holod.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "kotlosovet.ru",
+    "url": ["http://www.kotlosovet.ru/"],
+    "tags": "public, markup css, ie6",
+    "pages": "1",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/kotlosovet.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "i-detali.ru",
+    "url": ["http://www.i-detali.ru/"],
+    "tags": "bootstrap 1, public, markup, sass, erb, middleman",
+    "pages": "10",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/i-details.png"],
+    "decore_design": true,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "bootstrap template for shop",
+    "url": ["http://shop.de-core.net/"],
+    "tags": "bootstrap 3, public, markup, sass, erb, middleman",
+    "pages": "8",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/shop-template.png"],
+    "decore_design": true,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "hlopot.net",
+    "url": ["http://hlopot.net/"],
+    "tags": "bootstrap 2, public, markup, sass, jinja2, flask",
+    "pages": "7",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/hlopotnet.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Vet",
+    "url": ["http://vet-flask.herokuapp.com/", "http://www.urnivi.ru/"],
+    "tags": "zurb foundation 4, public, markup, sass, jinja2, flask",
+    "pages": "9",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/ural-nivi.png"],
+    "decore_design": true,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Prometei",
+    "url": ["http://prometei.herokuapp.com/", "http://pro-trud.ru/"],
+    "tags": "bootstrap 3, public, markup, sass, erb, middleman",
+    "pages": "5",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/prometei.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Zoocomfort",
+    "url": [
+      "http://zoocomfort.de-core.net/dogs.html",
+      "http://zoocomfort.de-core.net/cats.html"
+    ],
+    "tags": "landing, bootstrap 3, markup",
+    "pages": "1",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/zoocomfort.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Hills",
+    "url": [
+      "http://hills-land.herokuapp.com/"
+    ],
+    "tags": "bootstrap 3, markup, sass, erb, middleman",
+    "pages": "10",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/hills-land.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Vostok-Service",
+    "url": [
+      "http://silpaper.ru/"
+    ],
+    "tags": "bootstrap 3, markup, sass, middleman",
+    "pages": "6",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/silpaper.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": true,
+    "optimist_backend": false
+  },
+  {
+    "title": "Optimist",
+    "url": [
+      "http://optimist.de-core.net/"
+    ],
+    "tags": "markup, sass, erb, middleman",
+    "pages": "4",
+    "responsive": true,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/optimist.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": true,
+    "optimist_backend": false
+  },
+  {
+    "title": "itproduction.net",
+    "url": [
+      "http://www.itproduction.net/"
+    ],
+    "tags": "bootstrap 1, markup, sass, erb, middleman, ajax",
+    "pages": "4",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/itproduction.png"],
+    "decore_design": true,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Kleparius",
+    "url": [
+      "http://kleparius.herokuapp.com/"
+    ],
+    "tags": "bootstrap 1, markup, sass, erb, middleman, ajax",
+    "pages": "5",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/kleparius.png"],
+    "decore_design": true,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "CashGo",
+    "url": [
+      "http://cashgo.de-core.net/"
+    ],
+    "tags": "bootstrap 2, markup, sass",
+    "pages": "1",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/cashgo.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  },
+  {
+    "title": "Archiever",
+    "url": [
+      "http://inlife3.herokuapp.com/"
+    ],
+    "tags": "bootstrap 2, public, markup, sass, erb, middleman",
+    "pages": "40",
+    "responsive": false,
+    "time": {
+      "start": "",
+      "planed": "",
+      "end": ""
+    },
+    "src": ["assets/images/work-img/inlife3.png"],
+    "decore_design": false,
+    "optimist_design": false,
+    "frontend": true,
+    "decore_backend": false,
+    "optimist_backend": false
+  }
+]
