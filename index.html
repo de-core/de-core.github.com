@@ -55,7 +55,7 @@
 					<td>
 						<a ng-href="{{project.url[0]}}" target="blank">{{project.title}}</a>
 						<span ng-if="project.url.length>1">
-							<a class="fa fa-globe" ng-repeat="urls in project.url" ng-href="{{urls}}" ng-show="$index>0"></a>
+							<a class="fa fa-globe" ng-repeat="urls in project.url" ng-href="{{urls}}" ng-show="$index>0" target="blank"></a>
 						</span>
 					</td>
 					<td>{{project.tags}}</td>
